@@ -47,7 +47,7 @@ export default function Auth() {
           transition={{ delay: 0.4 }}
           className="mt-6 text-center text-3xl font-extrabold text-foreground"
         >
-          Momos
+          Momo Shop Management
         </motion.h2>
       </motion.div>
 
