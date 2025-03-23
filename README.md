@@ -43,11 +43,6 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 npm run dev
 ```
 
-### **5️⃣ Deploy to Vercel**
-1. Push your code to GitHub.
-2. Connect your repository to [Vercel](https://vercel.com/).
-3. Deploy the project.
-
 ## 📸 UI Preview (Example Layout)
 ```
 ----------------------------------------------------
